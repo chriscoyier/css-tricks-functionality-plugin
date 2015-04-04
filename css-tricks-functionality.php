@@ -8,7 +8,7 @@
  * @author      Jason Witt <contact@jawittdesigns.com>
  *
  * @wordpress-plugin
- * Plugin Name:       CSSS-Tricks Functionality
+ * Plugin Name:       CSS-Tricks Functionality
  * Plugin URI:        https://github.com/jawittdesigns/
  * Description:       Custom functionality plugin for css-tricks.com
  * Version:           1.0.0
